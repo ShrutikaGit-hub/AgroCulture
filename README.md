@@ -6,9 +6,13 @@ Developed a comprehensive agriculture website using PHP, SQL, and XAMPP. This we
 Key Features:
 
 -> User-Friendly Interface: A simple and intuitive design for easy navigation.
+
 -> Secure User Authentication: Protects user data and ensures privacy.
+
 -> Robust Database: Stores essential information about crops, market prices, and user profiles.
+
 -> Dynamic Content Generation: PHP is used to generate dynamic content based on user interactions and database queries.
+
 -> XAMPP Integration: Leverages XAMPP for efficient local development and testing.
 
 
