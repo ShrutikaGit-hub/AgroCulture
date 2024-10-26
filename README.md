@@ -11,7 +11,7 @@ Key Features:
 
 -> Robust Database: Stores essential information about crops, market prices, and user profiles.
 
--> Dynamic Content Generation: PHP is used to generate dynamic content based on user interactions and database queries.
+-> Dynamic Content Generation: PHP is used to generate dynamic content based on user interaction & database query.
 
 -> XAMPP Integration: Leverages XAMPP for efficient local development and testing.
 
